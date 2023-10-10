@@ -1,0 +1,11 @@
+D:\Latihan C Sharp\bin\Debug\netcoreapp2.2\Latihan C Sharp.deps.json
+D:\Latihan C Sharp\bin\Debug\netcoreapp2.2\Latihan C Sharp.runtimeconfig.json
+D:\Latihan C Sharp\bin\Debug\netcoreapp2.2\Latihan C Sharp.runtimeconfig.dev.json
+D:\Latihan C Sharp\bin\Debug\netcoreapp2.2\Latihan C Sharp.dll
+D:\Latihan C Sharp\bin\Debug\netcoreapp2.2\Latihan C Sharp.pdb
+D:\Latihan C Sharp\obj\Debug\netcoreapp2.2\Latihan C Sharp.csprojAssemblyReference.cache
+D:\Latihan C Sharp\obj\Debug\netcoreapp2.2\Latihan C Sharp.csproj.CoreCompileInputs.cache
+D:\Latihan C Sharp\obj\Debug\netcoreapp2.2\Latihan C Sharp.AssemblyInfoInputs.cache
+D:\Latihan C Sharp\obj\Debug\netcoreapp2.2\Latihan C Sharp.AssemblyInfo.cs
+D:\Latihan C Sharp\obj\Debug\netcoreapp2.2\Latihan C Sharp.dll
+D:\Latihan C Sharp\obj\Debug\netcoreapp2.2\Latihan C Sharp.pdb
